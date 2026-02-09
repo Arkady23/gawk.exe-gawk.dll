@@ -64,4 +64,5 @@ ENDIF
 
 * Сброс DLL для очистки памяти
 CLEAR DLLS "gawk32.dll"
+* CLEAR DLLS "gawk.dll"   && или так для VFPA
 ```
