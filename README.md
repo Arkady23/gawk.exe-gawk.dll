@@ -15,3 +15,4 @@ gcc -O2 -fpermissive -w -o gawk.exe -static -static-libgcc \
     support/random.c support/localeinfo.c support/malloc/dynarray_resize.c \   
     -lws2_32 -lmsvcrt -lkernel32 
 ```
+Если нужно больше утилит от Linux под Windows, скачивайте busybox64u.exe от сюда https://frippery.org/busybox/. 
